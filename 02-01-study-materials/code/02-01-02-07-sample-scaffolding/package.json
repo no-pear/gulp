@@ -1,0 +1,15 @@
+{
+  "name": "sample-scaffolding",
+  "version": "0.1.0",
+  "main": "index.js",
+  "bin": {
+    "a": "cli.js",
+    "b": "cli2.js"
+  },
+  "author": "zce <w@zce.me> (https://zce.me)",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "inquirer": "^7.0.0"
+  }
+}
